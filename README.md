@@ -1,4 +1,4 @@
-.vim
+Sublime Text Settings
 ====
 
 
